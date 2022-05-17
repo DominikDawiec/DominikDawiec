@@ -1,7 +1,7 @@
 # 💫About Me :
 Merging Financial Knowledge with New Technologies to provide high quality solutions in the area of finance, accounting and controlling.
 In the academic field I work on the development of controlling. 
-Currently studying Python for Data Science projects. 
+Currently studying Python for Data Science projects.
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
