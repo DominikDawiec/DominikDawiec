@@ -10,6 +10,7 @@ Currently studying Python for Data Science projects.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DominikDawiec&theme=white&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikDawiec&theme=white&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DominikDawiec&icon=5&color=white)](https://visitcount.itsvg.in)
 
