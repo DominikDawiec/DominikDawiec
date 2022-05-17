@@ -1,6 +1,6 @@
 # 💫About Me :
 Merging Financial Knowledge with New Technologies to provide high quality solutions in the area of finance, accounting and controlling.
-In the academic field I work on the development of controlling. 
+In the academic field I work on the development of controlling.
 Currently studying Python for Data Science projects.
 
 # 💻Tech Stack
