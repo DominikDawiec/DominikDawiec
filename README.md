@@ -9,10 +9,6 @@
 
 - 📄 Know about my experiences through my [resume](https://app.enhancv.com/share/b0945ce9/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
-[resume](https://app.enhancv.com/share/b0945ce9/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic){:target="_blank" rel="noopener"}
-<a href="https://app.enhancv.com/share/b0945ce9/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank">resume</a>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dominikdawiec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominikdawiec/" height="30" width="40" /></a>
