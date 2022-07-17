@@ -1,7 +1,8 @@
-<h1 align="center">Cześć! 👋, I'm Dominik</h1>
-<h3 align="center">A passionate Data Science Intern from Poland</h3>
+<h1 align="left">Cześć! 👋</h1>
+<h1 align="left">I'm Dominik</h1>
+<h3 align="left">A passionate Data Science Intern from Poland</h3>
 
-- 🔭 I’m currently working on **use of aternative data for financial forecasting**
+- 🔭 I’m currently working on **the use of aternative data for financial forecasting**
 
 - 🌱 I’m currently learning **TensorFlow**
 
