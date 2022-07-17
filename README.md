@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **how Google Searches (Google Trends) influence Unemployment Rate**
+- 💬 Ask me about **how Google Searches (Google Trends) may forecast Unemployment Rate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
