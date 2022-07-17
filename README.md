@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **how Google Searches (Google Trends) may forecast Unemployment Rate**
+- 💬 Ask me about **how Google Searches may forecast Unemployment Rate**
 
 - 📄 Know about my experiences through my [resume](https://app.enhancv.com/share/b0945ce9/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
