@@ -1,11 +1,9 @@
 <h1 align="left">Cześć! 👋 </br> I'm Dominik</h1>
 <h3 align="left">A passionate Data Science Intern from Poland</h3>
 
-- 🔭 I’m currently working on **the use of aternative data for financial forecasting**
+- 🔭 I’m currently working on **the use of python for web apps**
 
 - 🌱 I’m currently learning **TensorFlow**
-
-- 💬 Ask me about **how Google Searches may forecast Unemployment Rate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
