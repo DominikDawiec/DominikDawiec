@@ -1,4 +1,4 @@
-<h1 align="left">Cześć! 👋 </br> I'm Dominik</h1>
+<h1 align="left">Hi there! 👋</h1>
 <h3 align="left">A passionate Data Science Intern from Poland</h3>
 
 - 🔭 I’m currently working on **the use of python for web apps**
