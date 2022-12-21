@@ -24,4 +24,4 @@
 
 <h2>Connect with me</h2>
 
-<p>I am always looking for new opportunities to grow and learn as a data scientist. If you are interested in connecting, please feel free to reach out to me on <a href="https://www.linkedin.com/in/dominikdawiec/">LinkedIn</a> or through my personal website. 💻</p>
+<p>I am always looking for new opportunities to grow and learn as a data scientist. If you are interested in connecting, please feel free to reach out to me on <a href="https://www.linkedin.com/in/dominikdawiec/">LinkedIn</a>. 💻</p>
