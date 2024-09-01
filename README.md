@@ -1,6 +1,7 @@
 <h1>Hi there! 👋</h1>
 
-<p>As a Junior Data Scientist with a strong background in finance, I have a unique ability to bridge the gap between the world of IT and business. I have a bachelor's and master's degree in accounting and controlling, which has given me a solid foundation in financial analysis. I am now developing my skills in the field of machine learning, and I am excited to apply my knowledge to real-world business problems. With my strong analytical skills and financial expertise, I am confident that I can make a valuable contribution to any team.</p>
+<p>I'm a Data Scientist at the Digital& department of PwC, specializing in Data Science and Machine Learning, particularly in Financial Data and GenAI solutions. With robust knowledge of Python, statistics, and machine learning algorithms, combined with academic credentials in Accounting and Controlling, I seamlessly merge IT expertise with business insight. This unique blend ensures that my solutions meet both technical and business objectives.
+</p>
 
 <h2>Skills</h2>
 
