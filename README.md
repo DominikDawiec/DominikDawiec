@@ -9,8 +9,10 @@
   <li>Python 🐍</li>
   <li>Data analysis 📈</li>
   <li>Machine learning 🤖</li>
+  <li>GenAI solutions 🧠</li>
   <li>Data visualization 📊</li>
   <li>Statistics 📚</li>
+  <li>Finance 💵</li>
 </ul>
 
 <h2>Connect with me</h2>
